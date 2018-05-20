@@ -4,5 +4,9 @@
 - run the command in your terminal `node teste.js`.
 After running this command you will take a print to a web site.
 
+
+- to user the form manipulation run `node manipulateForm.js [urlToManipulate]`
+
+
 ## Ways to debug the puppteer:
 https://github.com/GoogleChrome/puppeteer#debugging-tips
